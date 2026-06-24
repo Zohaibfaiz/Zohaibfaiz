@@ -1,16 +1,21 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:8B5CF6&text=Muhammad%20Zohaib&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:4F46E5,100:8B5CF6&text=Muhammad%20Zohaib&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Software+Engineering+Enthusiast;Building+Scalable+Web+Applications;Open+Source+Contributor;Continuous+Learner+and+Problem+Solver" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;BS+Software+Engineering+Student;CodeAlpha+Intern;Building+Scalable+Applications;React+Node+Flutter+Developer;AI+%26+Software+Engineering+Enthusiast" />
 
 <br/>
 
 ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-7C3AED?style=for-the-badge\&logo=github\&logoColor=white)
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineering-4F46E5?style=for-the-badge\&logo=codeforces\&logoColor=white)
-![Computer Science](https://img.shields.io/badge/Computer%20Science-8B5CF6?style=for-the-badge\&logo=academia\&logoColor=white)
+![COMSATS University](https://img.shields.io/badge/COMSATS%20University-Vehari-003087?style=for-the-badge\&logo=academia\&logoColor=white)
+
+<br/>
 
 ![Location](https://img.shields.io/badge/Burewala-Pakistan-7C3AED?style=for-the-badge\&logo=googlemaps\&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-3.49%2F4.0-22C55E?style=for-the-badge\&logo=google-scholar\&logoColor=white)
+
+<br/>
 
 <a href="https://www.linkedin.com/in/muhammad-zohaib-b759b3382/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,7 +29,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/>
+<br/><br/>
 
 ![](https://komarev.com/ghpvc/?username=Zohaibfaiz\&style=for-the-badge\&color=7C3AED)
 ![](https://img.shields.io/github/followers/Zohaibfaiz?style=for-the-badge\&color=7C3AED)
@@ -34,91 +39,134 @@
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
-I am **Muhammad Zohaib**, a passionate **Full Stack Developer** focused on building scalable, secure, and user-friendly applications. My interests span across software engineering, full-stack web development, database design, modern frontend frameworks, backend architecture, and emerging AI technologies.
+I am **Muhammad Zohaib**, a passionate **Full Stack Developer** focused on building scalable, secure, and user-friendly applications.
 
-I enjoy transforming ideas into production-ready solutions while maintaining clean architecture, performance optimization, and software quality standards.
+Currently pursuing **BS Software Engineering** at **COMSATS University Islamabad, Vehari Campus (2023–2027)** with a **CGPA of 3.49/4.00**.
 
-### Open To
+My interests span across:
+
+* Full Stack Web Development
+* Software Engineering
+* Database Design
+* Cloud Technologies
+* Artificial Intelligence & Machine Learning
+* Mobile Application Development
+
+I enjoy transforming ideas into production-ready software while maintaining clean architecture, performance optimization, and software quality standards.
+
+### 🎯 Open To
 
 * Full Stack Development Opportunities
-* Software Engineering Roles
+* Software Engineering Internships
+* Remote Developer Roles
 * Open Source Collaboration
-* Web Application Development
-* AI & Machine Learning Learning Projects
-* Technical Mentorship & Community Building
+* AI & Machine Learning Projects
+* Freelance Development Work
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
-## Languages
+### Languages
 
 <p align="center">
-
-![C++](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![js](https://skillicons.dev/icons?i=javascript)
-![php](https://skillicons.dev/icons?i=php)
-![dart](https://skillicons.dev/icons?i=dart)
-
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript,php,dart"/>
 </p>
 
-## Frontend
+### Frontend
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,vite"/>
-
 </p>
 
-## Backend & Databases
+### Backend & Databases
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql,sqlite"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql,sqlite,supabase"/>
 </p>
 
-## Cloud, DevOps & Tooling
+### Mobile Development
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=github,git,vercel,postman,supabase"/>
+### Cloud, DevOps & Tooling
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman"/>
 </p>
 
 ---
 
-# AI / ML Expertise
+# 📊 Skills Proficiency
 
-| Domain                  | Proficiency           | Details                                             |
-| ----------------------- | --------------------- | --------------------------------------------------- |
-| Artificial Intelligence | Intermediate          | AI concepts, search strategies, intelligent systems |
-| Machine Learning        | Beginner–Intermediate | Learning ML algorithms and practical implementation |
-| Data Analysis           | Intermediate          | Data handling and processing fundamentals           |
-| Software Engineering    | Advanced              | Architecture, testing, quality assurance            |
-| Full Stack Development  | Advanced              | End-to-end application development                  |
+| Domain                 | Level            | Technologies                         |
+| ---------------------- | ---------------- | ------------------------------------ |
+| Full Stack Development | ⭐⭐⭐⭐⭐ Advanced   | React, Node.js, Express.js, MongoDB  |
+| Frontend Development   | ⭐⭐⭐⭐ Proficient  | HTML, CSS, Bootstrap, React, Angular |
+| Backend Development    | ⭐⭐⭐⭐ Proficient  | Node.js, Express.js, Laravel, PHP    |
+| Mobile Development     | ⭐⭐⭐ Intermediate | Flutter, Dart                        |
+| Database Design        | ⭐⭐⭐⭐ Proficient  | MongoDB, MySQL, SQLite, Supabase     |
+| Software Engineering   | ⭐⭐⭐⭐ Proficient  | OOP, Design Principles, Testing      |
+| AI & ML                | ⭐⭐⭐ Intermediate | AI Concepts, ML Fundamentals         |
 
 ---
 
-# Featured Projects
+# 💼 Experience
+
+<div align="center">
+
+| Role                            | Company   | Type              | Duration |
+| ------------------------------- | --------- | ----------------- | -------- |
+| **Full Stack Developer Intern** | CodeAlpha | Remote Internship | 1 Month  |
+
+</div>
+
+### Internship Certificate
+
+[![CodeAlpha Internship](https://img.shields.io/badge/View-CodeAlpha_Certificate-blue?style=for-the-badge)](https://drive.google.com/file/d/1huH315BpnOPEsswVSB6bq2L5woCY-kzL/view)
+
+---
+
+# 🚀 Featured Projects
+
+<details>
+<summary><b>📢 AdFlow Pro — SaaS Marketplace</b></summary>
+
+### Project Overview
+
+AdFlow Pro is a multi-role SaaS sponsored listing marketplace with modern dashboards and role-based access control.
+
+| Category     | Details                                                                  |
+| ------------ | ------------------------------------------------------------------------ |
+| Stack        | Next.js, Supabase, Tailwind CSS                                          |
+| Architecture | Multi-Role SaaS Marketplace                                              |
+| Security     | RBAC Middleware                                                          |
+| Features     | Sponsored Listings, Admin Dashboard                                      |
+| Impact       | Complete Ad Management Workflow                                          |
+| Repository   | https://github.com/Zohaibfaiz/FA23-BSE-048-M.Zohaib/tree/main/Adflow-Pro |
+
+</details>
+
+---
 
 <details>
 <summary><b>🛒 Ecommerce Full Stack Platform</b></summary>
 
 ### Project Overview
 
-Modern ecommerce application with frontend, backend, database integration and responsive design.
+Modern ecommerce application with complete frontend, backend and database integration.
 
 | Category    | Details                                                  |
 | ----------- | -------------------------------------------------------- |
 | Stack       | React, Node.js, MongoDB                                  |
-| Scale       | Multi-page ecommerce platform                            |
-| Performance | Optimized UI rendering                                   |
-| Security    | Authentication & validation                              |
-| Impact      | Complete online shopping workflow                        |
+| Scale       | Full Stack Ecommerce Platform                            |
+| Security    | Authentication & Validation                              |
+| Performance | Optimized User Experience                                |
+| Impact      | Complete Shopping Workflow                               |
 | Repository  | https://github.com/Zohaibfaiz/ecommerce-fullstack-design |
 
 </details>
@@ -134,11 +182,11 @@ Digital election platform enabling candidate management and voting workflows.
 
 | Category    | Details                                                                                   |
 | ----------- | ----------------------------------------------------------------------------------------- |
-| Stack       | Web Technologies                                                                          |
+| Stack       | React, Supabase                                                                           |
 | Scale       | Academic Full Stack Project                                                               |
-| Performance | Efficient vote processing                                                                 |
-| Security    | Validation mechanisms                                                                     |
-| Impact      | Streamlined election process                                                              |
+| Security    | Input Validation                                                                          |
+| Performance | Efficient Vote Processing                                                                 |
+| Impact      | Streamlined Election Process                                                              |
 | Repository  | https://github.com/Zohaibfaiz/FA23-BSE-048-M.Zohaib/tree/main/ElectionHub/election-system |
 
 </details>
@@ -155,31 +203,11 @@ Food ordering platform supporting menu management and customer ordering.
 | Category    | Details                                                                                        |
 | ----------- | ---------------------------------------------------------------------------------------------- |
 | Stack       | HTML, CSS, JavaScript, PHP                                                                     |
-| Scale       | Multi-user application                                                                         |
-| Performance | Fast ordering workflow                                                                         |
-| Security    | Input validation                                                                               |
-| Impact      | Improved ordering experience                                                                   |
+| Scale       | Multi User Application                                                                         |
+| Security    | Input Validation                                                                               |
+| Performance | Fast Ordering Workflow                                                                         |
+| Impact      | Improved Customer Experience                                                                   |
 | Repository  | https://github.com/Zohaibfaiz/FA23-BSE-048-M.Zohaib/tree/main/online%20food%20odering%20system |
-
-</details>
-
----
-
-<details>
-<summary><b>📢 AdFlow Pro</b></summary>
-
-### Project Overview
-
-Advertising and campaign management solution focused on digital workflows.
-
-| Category    | Details                                                                  |
-| ----------- | ------------------------------------------------------------------------ |
-| Stack       | Modern Web Technologies                                                  |
-| Scale       | Marketing Management System                                              |
-| Performance | Optimized dashboards                                                     |
-| Security    | Access control                                                           |
-| Impact      | Efficient campaign handling                                              |
-| Repository  | https://github.com/Zohaibfaiz/FA23-BSE-048-M.Zohaib/tree/main/Adflow-Pro |
 
 </details>
 
@@ -190,51 +218,53 @@ Advertising and campaign management solution focused on digital workflows.
 
 ### Project Overview
 
-Point of Sale application designed for transaction management and inventory handling.
+Point of Sale application for inventory and transaction management.
 
 | Category    | Details                                                                     |
 | ----------- | --------------------------------------------------------------------------- |
-| Stack       | Flutter                                                                     |
-| Scale       | Mobile Application                                                          |
-| Performance | Lightweight architecture                                                    |
-| Security    | Secure transaction handling                                                 |
-| Impact      | Business process automation                                                 |
+| Stack       | Flutter, Dart                                                               |
+| Platform    | Mobile Application                                                          |
+| Security    | Secure Transactions                                                         |
+| Performance | Lightweight Architecture                                                    |
+| Impact      | Business Automation                                                         |
 | Repository  | https://github.com/Zohaibfaiz/APP-DEVELOPMENT/tree/main/Lab%20Final/pos_app |
 
 </details>
 
 ---
 
-# Achievements
+# 🏆 Achievements
 
 <div align="center">
 
-| Recognition            | Details                                      |
-| ---------------------- | -------------------------------------------- |
-| Full Stack Development | Built multiple end-to-end software solutions |
-| Software Engineering   | Strong academic and practical foundation     |
-| Open Source Learning   | Active GitHub contributor                    |
-| Problem Solving        | Continuous learning and implementation       |
+| Achievement               | Details                                              |
+| ------------------------- | ---------------------------------------------------- |
+| 🎓 Academic Excellence    | CGPA 3.49 / 4.00                                     |
+| 💼 Industry Experience    | Completed Full Stack Internship at CodeAlpha         |
+| 🌐 Full Stack Development | Built 5+ Complete Web Applications                   |
+| 📱 Mobile Development     | Developed Flutter POS Application                    |
+| 🤖 AI Learning            | Exploring Artificial Intelligence & Machine Learning |
+| 🚀 Open Source            | Active GitHub Contributor                            |
 
 </div>
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zohaibfaiz&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zohaibfaiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zohaibfaiz&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaibfaiz&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaibfaiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 ---
 
-# GitHub Trophies
+# 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -244,7 +274,7 @@ Point of Sale application designed for transaction management and inventory hand
 
 ---
 
-# Contribution Activity
+# 🌱 Contribution Activity
 
 <div align="center">
 
@@ -254,7 +284,7 @@ Point of Sale application designed for transaction management and inventory hand
 
 ---
 
-# Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -264,19 +294,19 @@ Point of Sale application designed for transaction management and inventory hand
 
 ---
 
-# Current Focus
+# 🎯 Current Focus
 
 ```yaml
-Learning:
+Currently_Learning:
   - Machine Learning
   - Artificial Intelligence
-  - Advanced Backend Development
-  - Software Architecture
+  - Advanced React
+  - Backend Architecture
 
-Building:
+Currently_Building:
+  - AdFlow Pro
+  - Ecommerce Platform
   - Full Stack Applications
-  - Scalable Web Platforms
-  - Academic and Commercial Projects
 
 Exploring:
   - Cloud Technologies
@@ -284,15 +314,15 @@ Exploring:
   - Modern Frameworks
 
 Open_To:
-  - Collaboration
+  - Software Engineering Internships
+  - Full Stack Developer Roles
   - Freelance Projects
-  - Open Source Contributions
-  - Software Engineering Opportunities
+  - Open Source Collaboration
 ```
 
 ---
 
-# Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
@@ -314,8 +344,10 @@ Open_To:
 
 <div align="center">
 
-> "Great software is built through continuous learning, consistency, and attention to detail."
+> **"Great software is built through continuous learning, consistency, and attention to detail."**
+
+### Muhammad Zohaib
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:8B5CF6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:4F46E5,100:8B5CF6"/>
